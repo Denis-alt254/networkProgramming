@@ -7,3 +7,4 @@ y = int(input("Enter number y: "))
 z = x+y
 
 print("Sum = ", z)
+print(f"Sum is {z}")
